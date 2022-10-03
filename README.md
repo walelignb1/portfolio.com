@@ -3,7 +3,7 @@
   <a href="https://github.com/kidusaklog/Portfolio.com/" target="_blank">kidusaklog</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.jpg" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
